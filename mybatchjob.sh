@@ -3,8 +3,8 @@
 #SBATCH --mem-per-cpu=2G
 #SBATCH --partition=sched_mit_sloan_batch
 #SBATCH --time=0-00:10
-#SBATCH -o /home/geomar/clusterrepo/myoutputfile.out
-#SBATCH -e /home/geomar/clusterrepo/myerrorfile.err
+#SBATCH -o /home/geomar/repos/clusterrepo/myoutputfile.out
+#SBATCH -e /home/geomar/repos/clusterrepo/myerrorfile.err
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=geomar@mit.edu
 
