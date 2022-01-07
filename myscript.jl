@@ -1,4 +1,4 @@
 
 
 println("My batch job completed.")
-println("Thanks, Github and Engaging2!")
+println("Thanks, Github and Engaging!")
